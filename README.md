@@ -1,0 +1,2 @@
+# EclipseToAdoCodePush
+SampleCodePush
